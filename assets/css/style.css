@@ -1,4 +1,4 @@
-﻿@import url("inc/bootstrap/bootstrap.min.css");
+@import url("inc/bootstrap/bootstrap.min.css");
 @import url("inc/owl-carousel/owl.carousel.min.css");
 @import url("inc/owl-carousel/owl.theme.default.css");
 @import url("https://fonts.googleapis.com/css?family=Inter:400,500,700&amp;display=swap");
@@ -7428,4 +7428,8 @@ body.dark-mode-active .profile-stats .item strong {
 
 .card {
     min-height: 210px;
+}
+
+.tv-card {
+    min-height: 150px;
 }
