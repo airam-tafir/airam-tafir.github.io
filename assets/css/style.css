@@ -7433,3 +7433,23 @@ body.dark-mode-active .profile-stats .item strong {
 .tv-card {
     min-height: 150px;
 }
+
+.catg-title {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.imaged {
+    height: auto;
+    border-radius: 6px;
+    margin: 7px auto;
+}
+
+.w-100 {
+    width: 100%!important;
+}
+
+.movie-cast {
+    display: inline;
+    float: left;
+}
