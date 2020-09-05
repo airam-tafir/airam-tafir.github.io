@@ -3,12 +3,11 @@
     "short_name": "Mobilekit",
     "start_url": "https://mobilekit.bragherstudio.com/view7/index.html",
     "display": "standalone",
-    "scope" : "https://mobilekit.bragherstudio.com/view7/",
+    "scope": "https://mobilekit.bragherstudio.com/view7/",
     "background_color": "#000000",
     "theme_color": "#000000",
     "orientation": "portrait",
-    "icons": [
-        {
+    "icons": [{
             "src": "assets/img/icon/72x72.png",
             "type": "image/png",
             "sizes": "72x72"
