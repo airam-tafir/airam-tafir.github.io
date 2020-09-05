@@ -1,0 +1,253 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KLb65ZT.jpg" group-title="JADOO LIVE", Sangsad TV [BD]
+http://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/85zyKWB.jpg" group-title="JADOO LIVE", BTV WORLD [BD]
+http://robi.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCphgzj.png" group-title="JADOO LIVE", ATN BANGLA [BD]
+http://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T38Oiwl.jpg" group-title="JADOO LIVE", EKUSHEY TV [BD]
+http://robi.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nYRFnW5.png" group-title="JADOO LIVE", CHANNEL I [BD]
+http://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3usnOla.png" group-title="JADOO LIVE", NTV [BD]
+http://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/quDM4Y5.png" group-title="JADOO LIVE", DESH TV [BD]
+http://robi.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/giqoc2X.jpg" group-title="JADOO LIVE", DEEPTO TV [BD]
+http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WmLw772.png" group-title="JADOO LIVE", DBC NEWS [BD]
+http://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UHd3eew.jpg" group-title="JADOO LIVE", RTV [BD]
+http://robi.iptv.digijadoo.net/live/rtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KXsOj3L.png" group-title="JADOO LIVE", BOISHAKHI TV
+http://robi.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/00HdGFD.jpg" group-title="JADOO LIVE", BANGLA VISION [BD]
+http://robi.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/quDM4Y5.png" group-title="JADOO LIVE", DESH TV [BD]
+http://robi.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TWuzjbg.jpg" group-title="JADOO LIVE", MY TV [BD]
+http://robi.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eP45j9z.jpg" group-title="JADOO LIVE", MOHONA TV [BD]
+http://robi.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zsahmn3.jpg" group-title="JADOO LIVE", MAASRANGA TV [BD]
+http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sTDSKGR.png" group-title="JADOO LIVE", CHANNEL 9 [BD]
+http://robi.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Z0aOgZr.jpg" group-title="JADOO LIVE", GAZI TV [BD]
+http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yGgvoxY.png" group-title="JADOO LIVE", ASIAN TV [BD]
+http://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PC5QaK3.jpg" group-title="JADOO LIVE", SA TV [BD]
+http://robi.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ykaweLI.jpg" group-title="JADOO LIVE", ATN NEWS [BD]
+http://robi.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AMk8mRZ.png" group-title="JADOO LIVE", INDEPENDENT TV [BD]
+http://robi.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/18m3T6f.jpg" group-title="JADOO LIVE", SOMOY TV [BD]
+http://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1bmJ8rT.png" group-title="JADOO LIVE", CHANNEL 24 [BD]
+http://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GKZxePQ.png" group-title="JADOO LIVE", JAMUNA TV [BD]
+http://robi.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H9OZgxA.png" group-title="JADOO LIVE", NEWS 24 [BD]
+http://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oMXI9Dv.png" group-title="JADOO LIVE", GAAN BANGLA [BD]
+http://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EG2QRMG.png" group-title="JADOO LIVE", DURONTO TV [BD]
+http://robi.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/D6jGMpw.jpg" group-title="JADOO LIVE", Star Jalsha HD [IN]
+http://robi.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GOamt6U.jpg" group-title="JADOO LIVE", Zee Bangla SD [IN]
+http://robi.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7DKPT1P.jpg?1" group-title="JADOO LIVE", Colors Bangla HD [IN]
+http://robi.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/09phOKV.jpg" group-title="JADOO LIVE", Colors Bangla SD [IN]
+http://robi.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pQT1shs.jpg" group-title="JADOO LIVE", DD Bangla [IN]
+http://robi.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jf3Sv29.jpg" group-title="JADOO LIVE", Ruposhi Bangla [IN]
+http://robi.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDGaGMw.jpg" group-title="JADOO LIVE", R Plus Gold [IN]
+http://robi.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/klVzNhT.png" group-title="JADOO LIVE", Sangeet Bangla [IN]
+http://robi.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B7L4Nzd.jpg" group-title="JADOO LIVE", Dhoom Music [IN]
+http://robi.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hAmFkQB.jpg" group-title="JADOO LIVE", Jalsha Movies [IN]
+http://robi.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jbNSmlL.png" group-title="JADOO LIVE", COLORS HD
+http://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DsVRIof.jpg" group-title="JADOO LIVE", STAR PLUS
+http://robi.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TBwHZ9k.jpg" group-title="JADOO LIVE", STAR PLUS HD
+http://robi.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GCibH6l.jpg" group-title="JADOO LIVE", STAR BHARAT
+http://robi.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xN5TNtJ.png" group-title="JADOO LIVE", Zee TV HD
+http://robi.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7shBbvL.png" group-title="JADOO LIVE", STAR WORLD
+http://robi.iptv.digijadoo.net/live/star_world/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MOM8eCT.png" group-title="JADOO LIVE", Comedy Central
+http://robi.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MOM8eCT.png" group-title="JADOO LIVE", Comedy Central HD
+http://robi.iptv.digijadoo.net/live/diva/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HS9It3H.png" group-title="JADOO LIVE", Colors Infinity
+http://robi.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3yFjd7k.jpg" group-title="JADOO LIVE", Star Gold
+http://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DRImUvN.jpg" group-title="JADOO LIVE", Star Gold HD
+http://robi.iptv.digijadoo.net/live/star_gold/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/e053RWs.png" group-title="JADOO LIVE", Star Gold 2
+http://robi.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XDLU8Vy.jpg" group-title="JADOO LIVE", Zee Cinema
+http://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zKkg9B.jpg" group-title="JADOO LIVE", Zee Bollywood
+http://robi.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/izPPP72.jpg" group-title="JADOO LIVE", MANORANJAN
+http://robi.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qowJChe.jpg?1" group-title="JADOO LIVE", Movies Now
+http://robi.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rAsgU76.jpg" group-title="JADOO LIVE", LOTUS MACAU
+http://robi.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BlQG8Yn.jpg" group-title="JADOO LIVE", FYI TV 18
+http://robi.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gQuUBTU.png" group-title="JADOO LIVE", NGC
+http://robi.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/13VA7Sh.jpg" group-title="JADOO LIVE", NAT GEO WILD
+http://robi.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5adlvsI.png" group-title="JADOO LIVE", NAT GEO PEOPLE
+http://robi.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iXwGMoe.png" group-title="JADOO LIVE", TLC HD
+http://robi.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvlPBV4.png" group-title="JADOO LIVE", History TV HD
+http://robi.iptv.digijadoo.net/live/history_tv_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eCR56ku.png" group-title="JADOO LIVE", FOX Life
+http://robi.iptv.digijadoo.net/live/fox_life/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uofhcTE.jpg" group-title="JADOO LIVE", BBC Lifestyle
+http://robi.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="JADOO LIVE", Hum Masala
+http://robi.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/94NoKFn.jpg" group-title="JADOO LIVE", SONIC
+http://robi.iptv.digijadoo.net/live/sonic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Qkvo1BH.png" group-title="JADOO LIVE", NICK Bangla
+http://robi.iptv.digijadoo.net/live/nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rAjHYu3.png" group-title="JADOO LIVE", Nick Junior
+http://robi.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE", BBC Cbeebies
+http://robi.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png" group-title="JADOO LIVE", DD Sports
+http://robi.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fRivJD3.jpg" group-title="JADOO LIVE", Al Jazeera
+http://robi.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jBpJrGR.png" group-title="JADOO LIVE", Euro News
+http://robi.iptv.digijadoo.net/live/euro_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LD1Lj0v.png" group-title="JADOO LIVE", DW
+http://robi.iptv.digijadoo.net/live/dw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HuQij93.png" group-title="JADOO LIVE", NHK WORLD
+http://robi.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UxBVq6Z.png" group-title="JADOO LIVE", BBC News
+http://robi.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MTfR7d5.png" group-title="JADOO LIVE", CNN USA
+http://robi.iptv.digijadoo.net/live/cnn/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/e3cYtrb.jpg" group-title="JADOO LIVE", CNA
+http://robi.iptv.digijadoo.net/live/channel_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="JADOO LIVE", CNBC TV
+http://robi.iptv.digijadoo.net/live/cnbc/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UZ84Iv8.jpg" group-title="JADOO LIVE", MTV Beats
+http://robi.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/85zyKWB.jpg" group-title="JADOO LIVE", BTV WORLD [BD]
+http://robi.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCphgzj.png" group-title="JADOO LIVE", ATN BANGLA [BD]
+http://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T38Oiwl.jpg" group-title="JADOO LIVE", EKUSHEY TV [BD]
+http://robi.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nYRFnW5.png" group-title="JADOO LIVE", CHANNEL I [BD]
+http://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3usnOla.png" group-title="JADOO LIVE", NTV [BD]
+http://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
