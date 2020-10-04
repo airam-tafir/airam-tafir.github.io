@@ -118,10 +118,10 @@ http://103.141.66.36/bpk-tv/10028/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmAzHRC9muMnpYuP_UQYc3i2UGx0jo0K_q8_1vFdRWeHCH2b_i&usqp=CAU" group-title="Hindi", And TV HD
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Hindi", Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Hindi", Star Jalsha HD
 http://103.141.66.36/bpk-tv/10234/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi", Star Plus HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Hindi", Star Plus HD
 http://103.141.66.36/bpk-tv/10401/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi", Zee TV
@@ -142,7 +142,7 @@ http://103.141.66.36/bpk-tv/10186/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Pakistan", ARY Zindagi
 http://103.141.66.36/bpk-tv/10091/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hindi Movies", Sony Max HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="Hindi Movies", VH1
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Hindi Movies", Zee Cinema
@@ -217,7 +217,7 @@ http://103.141.66.36/bpk-tv/10007/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", Zing
 http://103.141.66.36/bpk-tv/10102/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", B4U Music
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7438/567438-h" group-title="Music", 9XM
 http://103.141.66.36/bpk-tv/10266/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", 9X Jalwa
@@ -247,13 +247,13 @@ http://103.141.66.36/bpk-tv/10165/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", Public Music
 http://103.141.66.36/bpk-tv/10134/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="Sports", Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="Sports", History TV HD
 http://103.141.66.36/bpk-tv/10476/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="Sports", Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Sports", History TV HD
 http://103.141.66.36/bpk-tv/10479/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="Sports", Sony Six HD
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/colors-bangla.png" group-title="Sports", Colors Bangla HD
 http://103.141.66.36/bpk-tv/10480/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Dubai Sports
@@ -350,10 +350,10 @@ http://103.141.66.36/bpk-tv/10211/default/index.m3u8
 http://103.141.66.36/bpk-tv/10058/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", CTGN
-http://103.141.66.36/bpk-tv/10059/default/index.m3u8
+http://103.141.66.36/bpk-tv/10060/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", DW
-http://103.141.66.36/bpk-tv/10060/default/index.m3u8
+http://103.141.66.36/bpk-tv/10059/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", YTN World
 http://103.141.66.36/bpk-tv/10135/default/index.m3u8
